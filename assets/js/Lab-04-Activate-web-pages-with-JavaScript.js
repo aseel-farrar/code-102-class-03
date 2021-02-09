@@ -3,8 +3,6 @@
 orderDonut (); 
 cal();
 
-
-
 // declaring the functions
 
 function cal (){
