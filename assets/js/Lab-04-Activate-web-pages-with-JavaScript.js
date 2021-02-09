@@ -1,7 +1,7 @@
 
 // calling the functions
-orderDonut (); 
 cal();
+orderDonut (); 
 
 
 
