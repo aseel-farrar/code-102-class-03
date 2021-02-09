@@ -1,0 +1,62 @@
+body{
+    width: 75%;
+    line-height: 1.5;
+    margin: auto;
+    background-color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header, footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+img{
+    width: 30%;
+    border-radius: 25%;
+
+
+}
+
+.cover{
+    width: 100%;
+    border-radius: 25%;
+}
+
+main p {
+    float: right;
+    font-size: large;
+    width: 60%;
+    display: inline;
+    
+}
+
+h1, h2{
+    font-style: oblique;
+    font-variant: small-caps;
+
+}
+
+h3{
+    width: 100%;
+    display: block;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+.intro{
+    width: 100%;
+    display: block;
+    text-align: left;
+
+}
+
+
+footer{
+    line-height: 1;
+    list-style: circle;
+    font-size: small;
+}
